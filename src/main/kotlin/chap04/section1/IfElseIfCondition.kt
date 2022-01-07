@@ -14,7 +14,11 @@ fun main() {
 //    }
 //
 //    println("Score : $score, Grade : $grade")
+
     lateinit var text: String
+
+
+    
 
     // 대충 중간에 뭔가 했음
     val result1 = 30
