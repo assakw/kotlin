@@ -14,7 +14,6 @@ fun normalValargs(vararg countss: Int){
         print("$num ")
     }
     print("\n")
-
 }
 
 
