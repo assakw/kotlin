@@ -7,8 +7,7 @@ fun main() {
 //    var a = sum(1, 2);
 //    println("a : $a")
 
-
-
+    
 }
 
 fun normalValargs(vararg countss: Int){
