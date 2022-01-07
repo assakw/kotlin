@@ -8,7 +8,7 @@ fun main() {
 //    println("a : $a")
 
 
-
+    print("3")
 }
 
 fun normalValargs(vararg countss: Int){
