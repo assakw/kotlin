@@ -17,7 +17,4 @@ inline fun shortFunc(a: Int, out: (Int) -> Unit) {
     println("Before calling out()")
     out(a)
     println("After calling out()")
-
-
-
 }
