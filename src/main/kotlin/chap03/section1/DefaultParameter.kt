@@ -14,13 +14,6 @@ fun main() {
 
 fun add(name: String, email: String = "default"): Unit{
     val output = "${name}님의 이메일은 ${email}입니다."
-
-
-
-
-
-
-
     println(output)
 }
 
