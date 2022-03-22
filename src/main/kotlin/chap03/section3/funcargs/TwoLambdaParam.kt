@@ -9,4 +9,6 @@ fun main() {
 fun twoLambda(first: (String, String) -> String, second: (String) -> String){
     println(first("김아린", "김아은"))
     println(second("제갈수"))
+
+
 }
