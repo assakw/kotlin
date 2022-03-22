@@ -34,5 +34,6 @@ fun moreParam(out: (String, String) -> String) {
 
 fun withArgs(a: String, b: String, out: (String, String) -> String){
     println(out(a, b))
+
 }
 
