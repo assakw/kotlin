@@ -15,7 +15,7 @@ fun main() {
         it.age = 59
         "{${it.name} is ${it.age}}" // (T)->R 부분에서의 R에 해당하는 반환값.
     }
-
+    //log
     val resultUnit = person.let {
         it.name = "Joe"
         it.age = 63
