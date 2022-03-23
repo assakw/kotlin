@@ -21,6 +21,8 @@ fun main() {
         it.age = 63
         // (T)->R 부분에서의 R에 해당하는 반환값 없음
     }
+
+
     // 1
     println("$resultIt")
     // 1, 2, 3, 4
