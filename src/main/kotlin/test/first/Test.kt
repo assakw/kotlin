@@ -23,7 +23,7 @@ fun main() {
     }
 
     println("$resultIt")
-    // 1, 2
+    // 1, 2, 3
     println("$resultStr")
     // ??
     println("$resultUnit")
